@@ -1,0 +1,7 @@
+D:\C#\GiaoDichHH\GiaoDichHH\bin\Debug\GiaoDichHH.exe.config
+D:\C#\GiaoDichHH\GiaoDichHH\bin\Debug\GiaoDichHH.exe
+D:\C#\GiaoDichHH\GiaoDichHH\bin\Debug\GiaoDichHH.pdb
+D:\C#\GiaoDichHH\GiaoDichHH\obj\Debug\GiaoDichHH.csproj.AssemblyReference.cache
+D:\C#\GiaoDichHH\GiaoDichHH\obj\Debug\GiaoDichHH.csproj.CoreCompileInputs.cache
+D:\C#\GiaoDichHH\GiaoDichHH\obj\Debug\GiaoDichHH.exe
+D:\C#\GiaoDichHH\GiaoDichHH\obj\Debug\GiaoDichHH.pdb
